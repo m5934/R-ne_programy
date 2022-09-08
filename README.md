@@ -2,4 +2,4 @@
 
 Repozytorium zawiera różne programy.
 
-Program student służy jako przykład programowania obiektowego.
+Program Student służy jako prosty przykład programowania obiektowego.
